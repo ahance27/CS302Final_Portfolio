@@ -4,4 +4,4 @@ draft: false
 ShowBreadCrumbs: false
 ---
 
-Click on each skill to learn more!
+Here are some of my computer science skills
