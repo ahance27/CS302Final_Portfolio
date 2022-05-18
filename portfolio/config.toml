@@ -60,11 +60,6 @@ paginate = 5
   creator = ""
   site = ""
 
-[[menu.main]]
-  identifier = "skills"
-  name = "Skills"
-  url = "/skills/"
-
 [languages]
   [languages.en]
     languageName = "English"
@@ -94,3 +89,7 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase/"
+      [[languages.en.menu.main]]
+        identifier = "skills"
+        name = "Skills"
+        url = "/skills/"
