@@ -60,6 +60,10 @@ paginate = 5
   creator = ""
   site = ""
 
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/ahance27"
+
 [languages]
   [languages.en]
     languageName = "English"
